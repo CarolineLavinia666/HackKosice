@@ -1,0 +1,2 @@
+# HackKosice
+First Hackathon
